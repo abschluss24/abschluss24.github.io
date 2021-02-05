@@ -15,3 +15,7 @@ mein Schwanz ist dein Schwanz.
 ## PGP
 
 My PGP public key is publicly available ([armored](/mein.asc), [binary](/mein.gpg)). 
+
+## XMPP
+
+abschluss24@5222.de (OMEMO preferred)
